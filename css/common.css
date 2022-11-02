@@ -16,8 +16,7 @@ header {
 
 header img {
     padding: 0%;
-    /* width: 20.3vh; */
-    width: 10.5%;
+    width: 20.2vh;
     height: auto;
 }
 
@@ -42,8 +41,7 @@ body {
     background-image: url('../img/pizarranegra.jpg');
     background-attachment: fixed;
     font-size: larger;
-    /* margin-top: 18vh; */
-    margin-top: 9.5%;
+    margin-top: 19vh;
 }
 
 main {
