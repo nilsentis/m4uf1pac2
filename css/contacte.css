@@ -9,3 +9,24 @@ iframe{
     margin-top: 2vh;
     margin-bottom: 2vh;
 }
+
+h2 {
+    text-decoration: underline;
+}
+
+iframe {
+    width: 62vh;
+    height: 40vh;
+}
+
+.esquerra {
+    float: left;
+}
+
+.dreta {
+    float: right;
+}
+
+aside img {
+    margin-top: 12vh;
+}

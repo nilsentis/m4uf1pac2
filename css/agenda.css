@@ -14,6 +14,10 @@ table{
     background-color: rgba(185, 172, 154, 0.396);
 }
 
+h2 {
+    text-decoration: underline;
+}
+
 h4 {
     font-size: larger;
 }

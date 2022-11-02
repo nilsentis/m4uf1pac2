@@ -10,3 +10,7 @@ iframe {
     width: 40vw;
     height: 40vh;
 }
+
+h2 {
+    text-decoration: underline;
+}

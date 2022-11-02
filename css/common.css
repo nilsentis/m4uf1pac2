@@ -10,13 +10,13 @@ header{
     width: 100%;
     top: 0;
     position: fixed;
-    background-image: url('../img/pizarranegraautors.jpg\(3\).png');
+    background-image: url('../img/pizarranegraautors.jpg.png');
     z-index: 2;
 }
 
 header img{
     padding: 0%;
-    width: 18.5vh;
+    width: 20.3vh;
     height: auto;
 }
 

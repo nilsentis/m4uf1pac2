@@ -20,9 +20,6 @@ h4 {
 figure img {
     width: 20vh;
     height: auto;
-    /* margin-right: 15vw; */
-    /* text-align: center; */
-    
 }
 
 figure {
@@ -33,4 +30,10 @@ figure {
 
 main {
     text-align: center;
+}
+
+.set {
+    width: 36vw;
+    height: auto;
+    padding: 4px;
 }
