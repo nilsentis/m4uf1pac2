@@ -1,0 +1,16 @@
+main img{
+    float: left;
+    margin-left: 5%;
+    margin-right: 12%;
+    width: 30vw;
+    height: auto;
+}
+
+aside{
+    position: right;
+    margin-top: -1vh;
+}
+
+h2{
+    text-decoration: underline;
+}

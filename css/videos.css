@@ -1,0 +1,12 @@
+h2, div, p {
+    text-align: center;
+}
+
+div {
+    padding: 3vh;
+}
+
+iframe {
+    width: 40vw;
+    height: 40vh;
+}

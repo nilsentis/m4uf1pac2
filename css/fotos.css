@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.column {
+    float: left;
+    width: 32.5%;
+    padding: 5px;
+}
+
+h4 {
+    padding: 4px;
+}
+
+.personatges figure {
+    display: inline-block;
+}
+
+figure img {
+    width: 20vh;
+    height: auto;
+    /* margin-right: 15vw; */
+    /* text-align: center; */
+    
+}
+
+figure {
+    margin-bottom: 6vh;
+    text-align: center;
+    padding: 2vh
+}
+
+main {
+    text-align: center;
+}

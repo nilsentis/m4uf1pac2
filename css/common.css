@@ -1,0 +1,82 @@
+*{
+    padding: 0%;
+    margin: 0%; 
+}
+
+header{
+    text-align: center;
+    background-color: transparent;
+    padding: 0%;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    background-image: url('../img/pizarranegraautors.jpg\(3\).png');
+    z-index: 2;
+}
+
+header img{
+    padding: 0%;
+    width: 18.5vh;
+    height: auto;
+}
+
+nav{
+    background-color: rgb(185, 172, 154);
+    margin-top: 0vh;
+    width: 100%;
+    font-family: fantasy;
+    word-spacing: 10px;
+    position: fixed;
+    border-top: cornsilk 3px solid;
+    border-bottom: cornsilk 3px solid;
+    z-index: 1;
+}
+
+nav a{
+    color: black;
+    font-size: larger;
+}
+
+body {
+    background-image: url('../img/pizarranegra.jpg');
+    background-attachment: fixed;
+    font-size: larger;
+    margin-top: 19vh;
+}
+
+main{
+    
+    overflow: auto;
+    color: white;
+    padding: 6vh;
+    background-color: transparent;
+    z-index: 1;
+}
+
+h4{
+    font-style: oblique;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    padding: 0%;
+    width: 100%;
+    margin-top: -4vh;
+    margin-bottom: 10px;
+    background-color: rgb(185, 172, 154);
+    border-top: cornsilk 2px solid;
+    border-bottom: cornsilk 2px solid;
+}
+
+footer a{
+    color: white;
+}
+
+main footer{
+    position: relative;
+}
+
+a{
+    color:lightgrey;
+}

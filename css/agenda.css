@@ -1,0 +1,19 @@
+table, td, th {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+div {
+    text-align: center;
+}
+
+table{
+    position:relative;
+    margin:auto;
+    width:80%;
+    background-color: rgba(185, 172, 154, 0.396);
+}
+
+h4 {
+    font-size: larger;
+}
