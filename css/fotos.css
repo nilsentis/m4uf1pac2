@@ -1,4 +1,4 @@
-h2{
+h2 {
     text-align: center;
     text-decoration: underline;
 }
@@ -33,7 +33,7 @@ main {
 }
 
 .set {
-    width: 36vw;
+    width: 36%;
     height: auto;
     padding: 4px;
 }

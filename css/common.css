@@ -1,9 +1,9 @@
-*{
+* {
     padding: 0%;
     margin: 0%; 
 }
 
-header{
+header {
     text-align: center;
     background-color: transparent;
     padding: 0%;
@@ -14,13 +14,14 @@ header{
     z-index: 2;
 }
 
-header img{
+header img {
     padding: 0%;
-    width: 20.3vh;
+    /* width: 20.3vh; */
+    width: 10.5%;
     height: auto;
 }
 
-nav{
+nav {
     background-color: rgb(185, 172, 154);
     margin-top: 0vh;
     width: 100%;
@@ -32,7 +33,7 @@ nav{
     z-index: 1;
 }
 
-nav a{
+nav a {
     color: black;
     font-size: larger;
 }
@@ -41,10 +42,11 @@ body {
     background-image: url('../img/pizarranegra.jpg');
     background-attachment: fixed;
     font-size: larger;
-    margin-top: 19vh;
+    /* margin-top: 18vh; */
+    margin-top: 9.5%;
 }
 
-main{
+main {
     
     overflow: auto;
     color: white;
@@ -53,11 +55,11 @@ main{
     z-index: 1;
 }
 
-h4{
+h4 {
     font-style: oblique;
 }
 
-footer{
+footer {
     text-align: center;
     color: white;
     padding: 0%;
@@ -69,14 +71,14 @@ footer{
     border-bottom: cornsilk 2px solid;
 }
 
-footer a{
+footer a {
     color: white;
 }
 
-main footer{
+main footer {
     position: relative;
 }
 
-a{
+a {
     color:lightgrey;
 }

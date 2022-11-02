@@ -14,3 +14,7 @@ iframe {
 h2 {
     text-decoration: underline;
 }
+
+p {
+    border-bottom: 2px solid dimgrey;
+}
